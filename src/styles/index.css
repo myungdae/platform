@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "NotoSansKR";
+  font-weight: normal;
+  src: url("../assets/fonts/NotoSansKR-Medium.ttf") format("truetype");
+}
+
+body {
+  font-family: "NotoSansKR";
+}
